@@ -1,0 +1,5 @@
+a	30	time1	2
+a	2	time2	5
+b	15	time1	7
+a	9	time2	8
+b	12	time3	6
